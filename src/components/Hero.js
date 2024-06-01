@@ -10,7 +10,7 @@ export default function Hero() {
         <h2 className="hero--text--p1">Hi, I am</h2>
         <h1 className="hero--text--p2">Nikos Dritsakos</h1>
         <h3 className="hero--text--p3">
-          Software Developer / Full-Stack Developer
+          Software Engineer / Full-Stack Developer
         </h3>
       </div>
     </div>
